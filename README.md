@@ -61,6 +61,10 @@ The table below provides a more granular view of Electra Pvt Ltd's product perfo
 | MacBook Air   | 1652         | 38,07,96,179   | 1,24,22,935      | 2                            |
 | OnePlus 11    | 1675         | 38,52,59,616   | 1,27,25,136      | 2                            |
 
+<div align="center">
+  <img src="Assets/Dashboard-demo.gif" alt="Dashboard Demo" width="700"/>
+</div>
+
 **Insights:**
 
 * Fitbit Charge leads in both total sales and total profit for Electra Pvt Ltd, reinforcing its strong market performance and profitability contribution.
